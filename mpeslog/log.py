@@ -56,3 +56,11 @@ def dict_upscale(names, dicts, init=odict({})):
         metadict[name] = pd
 
     return metadict
+
+
+def dict_save(form='h5'):
+    """ Save full file after combining different parts of metadata.
+    """
+
+
+    return
