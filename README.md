@@ -1,2 +1,2 @@
 # mpes-log
-Metadata and data combiner for multidimensional photoemission spectroscopy
+Metadata logging and data curation for multidimensional photoemission spectroscopy (MPES)
